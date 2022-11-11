@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404757266448",
+    "project_id": "katger-bdc4c",
+    "storage_bucket": "katger-bdc4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404757266448:android:785c4337349f699dd50a95",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404757266448-445kp1accjn0lhgn00n6ooq7sn4nj8k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8kSn5gRqrDEXTOyGCesDcGl3-aYP-Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404757266448-445kp1accjn0lhgn00n6ooq7sn4nj8k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
